@@ -50,4 +50,4 @@
 [2.1]: http://i.imgur.com/0o48UoR.png (@chilloutwithanas)
 
 [1]: https://twitter.com/theanaskhan 
-[2]: http://www.github.com/carlsednaoui
+[2]: http://www.github.com/chilloutwithanas
