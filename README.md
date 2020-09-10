@@ -47,7 +47,7 @@
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (@thekhananas)
+[1.1]: http://i.imgur.com/tXSoThF.png (@theanaskhan)
 [2.1]: http://i.imgur.com/0o48UoR.png (@chilloutwithanas)
 [3.1]: https://i.imgur.com/gMjTljx.png (@thekhananas)
 
