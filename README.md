@@ -22,6 +22,17 @@
 <a href="https://github.com/chilloutwithanas/Computer-Vision">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chilloutwithanas&repo=Computer-Vision" />
 </a>
+<a href="https://github.com/chilloutwithanas/TMDb-Worldwide-BoxOffice-DataAnalysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chilloutwithanas&repo=TMDb-Worldwide-BoxOffice-DataAnalysis" />
+</a>
+<a href="https://github.com/chilloutwithanas/AnasKhan-CrystalOscillatorDesign">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chilloutwithanas&repo=AnasKhan-CrystalOscillatorDesign" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
