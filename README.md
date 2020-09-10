@@ -45,9 +45,12 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (@thekhananas)
 [2.1]: http://i.imgur.com/0o48UoR.png (@chilloutwithanas)
+[3.1]: https://i.imgur.com/gMjTljx.png (@thekhananas)
 
 [1]: https://twitter.com/theanaskhan 
 [2]: http://www.github.com/chilloutwithanas
+[3]: https://www.linkedin.com/in/thekhananas/
